@@ -180,3 +180,12 @@ ui-tests/.pnp.*
 #Dataset
 SET14/*/*
 
+#Output
+Output/
+*.txt
+*.csv
+
+#Pickle files
+*.pkl
+
+
